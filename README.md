@@ -3,7 +3,7 @@ Website of a multi-functional, cutting-edge technology Discord bot.
 https://semihberkayozturk.github.io/Torvald-Bot/
 
 
-# ------------COMMANDS------------
+# ---COMMANDS---
 $info-->Learn more details about Torvald Bot.
 
 $inspire-->Torvald Bot sends inspirational quotes  from the world's most important philosiphers, inventors, scientists, religious figures, and leaders throughout history.
