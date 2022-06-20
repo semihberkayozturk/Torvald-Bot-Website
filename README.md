@@ -12,8 +12,8 @@ $joke-->Programming jokes.
 
 $creator-->Social media accounts of the creator of Torvald Bot.
 
-$guess <your-number> --> Try to guess the number which is between 1 and 10
+$guess your-number --> Try to guess the number which is between 1 and 10
 
-$imdb <minimum rate> --> With this command, you type the minimum rate that you're looking for a series and Torvald Bot lists all the series whose IMDB rate is higher than your minimum rate.
+$imdb minimum rate --> With this command, you type the minimum rate that you're looking for a series and Torvald Bot lists all the series whose IMDB rate is higher than your minimum rate.
 
 $pomodoro-->Torvald Bot starts a 25 minutes long Pomodoro session and sends you a message when it's finished.
