@@ -1,2 +1,2 @@
 # Torvald-Bot
-Website of multi-functional, cutting-edge technology Discord bot. 
+Website of a multi-functional, cutting-edge technology Discord bot. 
