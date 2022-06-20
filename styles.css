@@ -1,0 +1,34 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 3.1rem;
+    line-height: 1.5;
+    font-weight: 900;
+    padding-top: 27px;
+}
+
+#bot {
+    margin-top: 11%;
+    text-align: center;
+}
+
+p {
+    line-height: 30px;
+}
+
+.bot-img {
+    width: 13%;
+    border-radius: 42%;
+}
+
+.download-button {
+    margin-right: 1%;
+}
+
+mark {
+    color: #293462;
+    background-color: white !important;
+}
