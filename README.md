@@ -1,5 +1,5 @@
 # Torvald-Bot
-Website of a multi-functional, cutting-edge technology Discord bot. 
+Website of a multi-functional, Discord bot which is written by Python.
 https://semihberkayozturk.github.io/Torvald-Bot/
 
 
